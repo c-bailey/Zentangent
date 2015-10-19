@@ -19,7 +19,7 @@ dl, dd, ol, ul, figure {
  */
 body {
   font-family: "Open Sans", sans-serif;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.5;
   font-weight: 300;
   color: #fff;
@@ -48,7 +48,7 @@ figure > img {
   display: block; }
 
 figcaption {
-  font-size: 15.75px; }
+  font-size: 14px; }
 
 /**
  * Lists
@@ -114,6 +114,9 @@ pre {
  * Wrapper
  */
 .wrapper {
+  display: inline-block;
+  vertical-align: top;
+  text-align: left;
   max-width: -webkit-calc(800px - (30px * 2));
   max-width: calc(800px - (30px * 2));
   margin-right: auto;
@@ -128,9 +131,47 @@ pre {
       padding-left: 15px; } }
 
 /**
+ * Sidebar
+ */
+.sidebar {
+  position: relative;
+  display: inline-block;
+  vertical-align: top;
+  max-width: -webkit-calc(350px - (30px * 2));
+  max-width: calc(350px - (30px * 2));
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 30px;
+  padding-left: 30px; }
+  @media screen and (max-width: 800px) {
+    .sidebar {
+      max-width: -webkit-calc(350px - (30px));
+      max-width: calc(350px - (30px));
+      padding-right: 15px;
+      padding-left: 15px; } }
+
+.circle img {
+  border-radius: 50%;
+  opacity: 1; }
+
+.circle {
+  max-width: -webkit-calc(350px/2);
+  max-width: calc(350px/2);
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 10px; }
+
+.sidebar-content {
+  text-align: left;
+  background-color: #111;
+  opacity: 0.95;
+  border-radius: 25px;
+  padding: 30px; }
+
+/**
  * Clearfix
  */
-.wrapper:after, .footer-col-wrapper:after {
+.wrapper:after, .sidebar:after, .footer-col-wrapper:after {
   content: "";
   display: table;
   clear: both; }
@@ -260,7 +301,9 @@ pre {
  * Page content
  */
 .page-content {
-  padding: 30px 0; }
+  padding: 30px 0;
+  width: 100%;
+  text-align: center; }
 
 .page-heading {
   font-size: 20px; }
@@ -276,7 +319,7 @@ pre {
     padding: 30px; }
 
 .post-meta {
-  font-size: 15.75px; }
+  font-size: 14px; }
 
 .post-link {
   display: block;
@@ -467,3 +510,12 @@ pre {
     color: #008080; }
   .highlight .il {
     color: #099; }
+
+.right {
+  text-align: right; }
+
+table {
+  width: 100%; }
+
+hr {
+  margin-top: 30px; }

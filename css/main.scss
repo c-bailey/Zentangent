@@ -7,7 +7,7 @@
 
 // Our variables
 $base-font-family: 'Open Sans', sans-serif;
-$base-font-size:   18px;
+$base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
@@ -25,6 +25,8 @@ $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
 $content-width:    800px;
+
+$sidebar-width:    350px;
 
 $on-palm:          600px;
 $on-laptop:        800px;
@@ -58,3 +60,15 @@ html {
         "layout",
         "syntax-highlighting"
 ;
+
+.right {
+  text-align: right;
+}
+
+table {
+  width: 100%;
+}
+
+hr {
+  margin-top: $spacing-unit;
+}

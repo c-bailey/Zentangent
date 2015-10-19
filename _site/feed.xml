@@ -6,22 +6,70 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 18 Oct 2015 20:39:15 -0400</pubDate>
-    <lastBuildDate>Sun, 18 Oct 2015 20:39:15 -0400</lastBuildDate>
+    <pubDate>Mon, 19 Oct 2015 14:59:26 -0400</pubDate>
+    <lastBuildDate>Mon, 19 Oct 2015 14:59:26 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>Hello World!</title>
-        <description>&lt;p&gt;I just want to see how this will look in the list.&lt;/p&gt;
+        <title>Hello, World!</title>
+        <description>&lt;p&gt;Hello, world! Or more accurately small subset of the world who would entertain themselves by reading my blog. Have you ever been curious about the origin of writing programs to output “Hello, world!” as a means to learn new syntax or test your development environment? Honestly, I wasn’t until I titled this blog post, but it turns out it’s actually pretty &lt;a href=&quot;https://en.wikipedia.org/wiki/%22Hello,_World!%22_program#History&quot;&gt;interesting&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Well that seems like enough stalling, onward with the obligatory introduction. As a social-anxiety ridden introvert who hates talking about herself I’m probably the last person who should be writing a blog, but ideally after this post the blog will be a lot less about me and a lot more about topics that get me fired up! “And what are those topics?” I hear you inquire through your computer screen. Well dilligent reader, I’m so glad you asked! Topics I may write about include:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;gender &amp;amp; sexuality issues&lt;/li&gt;
+  &lt;li&gt;the future of databases&lt;/li&gt;
+  &lt;li&gt;education reform&lt;/li&gt;
+  &lt;li&gt;mental illness&lt;/li&gt;
+  &lt;li&gt;artsy shit&lt;/li&gt;
+  &lt;li&gt;social justice issues&lt;/li&gt;
+  &lt;li&gt;cool code stuff&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Basically this blog is a bucket I’m putting under my brain to catch every bit and piece that falls out. Oh, and before signing off, it might be helpful for you to know who I am. If you couldn’t care less about the following anecdotes feel free to shoot straight down to the comments section and give me feedback! I have plenty ideas of what I want to write about, but I want to know what &lt;strong&gt;you&lt;/strong&gt; want to &lt;strong&gt;read&lt;/strong&gt; about. So if you’re still reading, because you’re curious about who I am or what makes me tick, allow me to present &lt;em&gt;Fun facts about Chelsea in list form&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;As a child I collected small dog figurines.&lt;/li&gt;
+  &lt;li&gt;In the 3rd grade I wanted my birthday party to be morgue themed.&lt;/li&gt;
+  &lt;li&gt;When I was young all I wanted to be when I grew up was a working woman in Manhattan, who rollerbladed to work and had a messenger bag.&lt;/li&gt;
+  &lt;li&gt;The first time I ate an orange I was 19.&lt;/li&gt;
+  &lt;li&gt;Sylvia Plath is one of my idols (and she and I have spent time in the same psychiatric unit).&lt;/li&gt;
+  &lt;li&gt;I’m currently in my old-school Taylor Swift phase of music writing, watch out ex-boyfriends!&lt;/li&gt;
+  &lt;li&gt;I identify as pansexual and a cis-gendered female.&lt;/li&gt;
+  &lt;li&gt;I’m writing these facts as they randomly come to mind.&lt;/li&gt;
+  &lt;li&gt;I’m reallly good at starting things and pretty bad at finishing them.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And on that note, I’ll call that list done. If this blog starts to grow too big for its britches, I’ll probably make an &lt;em&gt;About Me&lt;/em&gt; page and add the option to filter posts by category or tags. Until then, hope you’re excited to keep reading and come along for the ride.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Until next time, stay zen! Or at least live tangent to it.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;-Chelsea&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 </description>
-        <pubDate>Sun, 18 Oct 2015 18:22:20 -0400</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/10/18/testpost.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/10/18/testpost.html</guid>
+        <pubDate>Mon, 19 Oct 2015 18:22:20 -0400</pubDate>
+        <link>http://yourdomain.com/general/2015/10/19/hello-world.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/general/2015/10/19/hello-world.html</guid>
+        
+        <category>personal</category>
+        
+        <category>random</category>
         
         
-        <category>jekyll</category>
-        
-        <category>update</category>
+        <category>general</category>
         
       </item>
     
