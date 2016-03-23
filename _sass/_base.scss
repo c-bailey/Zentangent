@@ -21,6 +21,8 @@ body {
     font-weight: 300;
     color: $text-color;
     -webkit-text-size-adjust: 100%;
+    background-color:   #F7FFF7;
+    margin: 2em;
 }
 
 
@@ -198,16 +200,15 @@ pre {
 }
 
 .circle {
-    max-width: -webkit-calc(#{$sidebar-width}/2);
-    max-width:         calc(#{$sidebar-width}/2);
+    max-width: -webkit-calc(#{$sidebar-width}/1);
+    max-width:         calc(#{$sidebar-width}/1);
     margin-right: auto;
     margin-left: auto;
     margin-bottom: 10px;
 }
 
 .sidebar-content {
-    text-align: left;
-    background-color: $background-color;
+    text-align: center;
     opacity: $opacity;
     border-radius: $border-radius;
     padding: $spacing-unit;

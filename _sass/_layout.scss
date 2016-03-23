@@ -2,11 +2,26 @@
  * Site header
  */
 .site-header {
-    background-color: $background-color;
+
     min-height: 56px;
+    text-align: center;
 
     // Positioning context for the mobile navigation icon
     position: relative;
+
+    img {
+        max-height: 8em;
+        margin-top: 1em;
+    }
+}
+
+.line-break {
+    width: 80%;
+    height: 0.1em;
+    background-color: #ddd;
+    position: relative;
+    margin: auto;
+    margin-top: 1em;
 }
 
 .site-title {
@@ -169,11 +184,7 @@
     list-style: none;
 
     > li {
-        margin-bottom: $spacing-unit;
-        background-color: $background-color;
-        border-radius: $border-radius;
-        opacity: $opacity;
-        padding: $spacing-unit;
+        padding: $spacing-unit 0;
     }
 }
 
@@ -187,7 +198,6 @@
 }
 
 .rss-subscribe {
-    background-color: $background-color;
     opacity: $opacity;
     padding: $spacing-unit/2;
     width: 200px;
@@ -202,7 +212,6 @@
  */
 
 .post {
-    background-color: $background-color;
     border-radius: $border-radius;
     opacity: $opacity;
     padding: $spacing-unit;
@@ -214,9 +223,8 @@
 }
 
 .post-title {
-    font-size: 42px;
-    letter-spacing: -1px;
-    line-height: 1;
+    font-size: 2em;
+    line-height: 0.8;
 
     @include media-query($on-laptop) {
         font-size: 36px;
@@ -248,5 +256,15 @@
         @include media-query($on-laptop) {
             font-size: 18px;
         }
+    }
+}
+
+.share-page {
+    background-color: #eee;
+    padding: 1em;
+    text-align: center;
+
+    a {
+        font-weight: bold;
     }
 }

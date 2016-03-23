@@ -7,17 +7,17 @@
 
 // Our variables
 $base-font-family: 'Open Sans', sans-serif;
-$base-font-size:   16px;
-$small-font-size:  $base-font-size * 0.875;
+$base-font-size:   0.9em;
+$small-font-size:  $base-font-size;
 $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #fff;
+$text-color:       #000;
 $background-color: #111;
 $opacity:          0.95;
 $border-radius:    25px;
-$brand-color:      #3bb9c2;
+$brand-color:      #235d5d;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -32,11 +32,7 @@ $on-palm:          600px;
 $on-laptop:        800px;
 
 html {
-	background: url('{{ site.baseurl }}/images/zt-bkg.jpg') no-repeat center center fixed;
-	-webkit-background-size: cover;
-     -moz-background-size: cover;
-      -ms-background-size: cover;
-          background-size: cover;
+	background-color: #eee;
 }
 
 // Using media queries with like this:
