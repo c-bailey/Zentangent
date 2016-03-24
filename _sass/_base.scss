@@ -175,6 +175,7 @@ pre {
  * Sidebar
  */
 .sidebar {
+    background-color: #eee;
     position: relative;
     display: inline-block;
     vertical-align: top;
@@ -195,7 +196,7 @@ pre {
 }
 
 .circle img {
-    border-radius: 50%;
+    border-radius: 0;
     opacity: 1;
 }
 

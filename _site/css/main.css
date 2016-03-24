@@ -132,6 +132,7 @@ pre {
  * Sidebar
  */
 .sidebar {
+  background-color: #eee;
   position: relative;
   display: inline-block;
   vertical-align: top;
@@ -149,7 +150,7 @@ pre {
       padding-left: 15px; } }
 
 .circle img {
-  border-radius: 50%;
+  border-radius: 0;
   opacity: 1; }
 
 .circle {
@@ -319,6 +320,10 @@ pre {
 .post-list {
   margin-left: 0;
   list-style: none; }
+  .post-list img {
+    max-height: 450px;
+    margin: auto;
+    display: block; }
   .post-list > li {
     padding: 30px 0; }
 
@@ -372,6 +377,10 @@ pre {
     @media screen and (max-width: 800px) {
       .post-content h4 {
         font-size: 18px; } }
+  .post-content img {
+    max-height: 450px;
+    margin: auto;
+    display: block; }
 
 .share-page {
   background-color: #eee;

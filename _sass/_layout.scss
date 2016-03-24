@@ -183,8 +183,15 @@
     margin-left: 0;
     list-style: none;
 
+    img {
+        max-height: 450px;
+        margin: auto;
+        display: block;
+        }
+
     > li {
         padding: $spacing-unit 0;
+        
     }
 }
 
@@ -256,6 +263,12 @@
         @include media-query($on-laptop) {
             font-size: 18px;
         }
+    }
+
+    img {
+        max-height: 450px;
+        margin: auto;
+        display: block;
     }
 }
 
