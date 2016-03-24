@@ -28,6 +28,7 @@ Basically this blog is a bucket I'm putting under my brain to catch every bit an
   * I'm currently in my old-school Taylor Swift phase of music writing, watch out ex-boyfriends!
   * I identify as pansexual and a cis-gendered female.
   * I'm writing these facts as they randomly come to mind.
+  * I cried while watching the documentary *Who Killed the Electric Car*.
   * I'm reallly good at starting things and pretty bad at finishing them.
 
 And on that note, I'll call that list done. If this blog starts to grow too big for its britches, I'll probably make an *About Me* page and add the option to filter posts by category or tags. Until then, hope you're excited to keep reading and come along for the ride.
