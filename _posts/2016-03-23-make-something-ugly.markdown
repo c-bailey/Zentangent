@@ -2,7 +2,7 @@
 layout: post
 title:  "Make Something Ugly"
 date:   2016-03-23 22:22:20
-categories: [general, art, mental health]
+categories: []
 tags: [personal, random, art, mental health, crafting]
 excerpt_separator: <!--more-->
 ---
