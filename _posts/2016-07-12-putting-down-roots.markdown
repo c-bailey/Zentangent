@@ -41,7 +41,7 @@ I am the girl who keeps a closet full of things other people wanted to throw awa
 
 Most importantly, I am the girl who is learning to fill this room and my life with the things that bring me joy. It is the best lesson I’ve learned, and I am blessed to have this safe space to explore it in.
 
-![sign]({{ site.baseurl }}/images/craftroom/sign4.jpg)
+![sign]({{ site.baseurl }}/images/craftroom/sign4.JPG)
 
 *******
 
